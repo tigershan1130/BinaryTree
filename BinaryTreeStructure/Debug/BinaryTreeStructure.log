@@ -1,0 +1,4 @@
+﻿  BinaryTreeStructure.cpp
+D:\C++ConsolePractice\BinaryTreeStructure\BinaryTreeStructure\BinaryTreeStructure.cpp(40,20): warning C4018:  '<': signed/unsigned mismatch
+D:\C++ConsolePractice\BinaryTreeStructure\BinaryTreeStructure\BinaryTreeStructure.cpp(52,20): warning C4018:  '<': signed/unsigned mismatch
+  BinaryTreeStructure.vcxproj -> D:\C++ConsolePractice\BinaryTreeStructure\Debug\BinaryTreeStructure.exe
